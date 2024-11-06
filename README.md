@@ -1,9 +1,9 @@
 # 🚢 RNA - Titanic
 
 ![Build with Love](http://ForTheBadge.com/images/badges/built-with-love.svg)
-
 ![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 ![LaTeX](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![CSS](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
